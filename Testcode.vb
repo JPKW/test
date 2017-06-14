@@ -1,1 +1,5 @@
-msgbox ("Hello, World!")
+Function HiWorld ()
+
+	msgbox ("Hello, World!")
+
+End Function
